@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Astrologo-mastix, or A discovery of the vanity and iniquity of judiciall astrology, or Divining by the starres the successe, or miscarriage of humane affaires. / By John Geree Master of Arts, and preacher of the word at St. Albanes. Published according to order.</title>
+            <author>Geree, John, 1601?-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85938</idno>
+            <idno type="STC">Wing G586</idno>
+            <idno type="STC">Thomason E344_13</idno>
+            <idno type="STC">ESTC R200963</idno>
+            <idno type="EEBO-CITATION">99861569</idno>
+            <idno type="PROQUEST">99861569</idno>
+            <idno type="VID">159789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159789)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E344[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Astrologo-mastix, or A discovery of the vanity and iniquity of judiciall astrology, or Divining by the starres the successe, or miscarriage of humane affaires. / By John Geree Master of Arts, and preacher of the word at St. Albanes. Published according to order.</title>
+                  <author>Geree, John, 1601?-1649.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons, for John Bartlet, at the Guilt-Cup at Austines-Gate,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Bible and astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159789:1" rendition="simple:additions"/>
+            <p>Aſtrologo-Maſtix, OR A DISCOVERY Of the vanity and iniquity of Ju<g ref="char:EOLhyphen"/>diciall Aſtrology, or Divining by the Starres the ſucceſſe, or miſcarriage of humane affaires.</p>
+            <p>By JOHN GEREE Maſter of <hi>Arts,</hi> and Preacher of the word at St. <hi>Albanes.</hi>
+            </p>
+            <q>
+               <bibl>JER. 10.22.</bibl>
+               <p>Learne not the way of the Heathen, and be not diſmayed at the ſignes of Heaven, for the Heathen are diſmayed at them.</p>
+            </q>
+            <q>Sapiens dominabitur Aſtris.</q>
+            <p>Publiſhed according to Order.</p>
+            <p>LONDON, Printed by <hi>Matthew Simmons,</hi> for <hi>John Bartlet,</hi> at the Guilt-Cup at <hi>Auſtines-Gate,</hi> 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:159789:2"/>
+            <pb facs="tcp:159789:3" rendition="simple:additions"/>
+            <head>To my very loving and beloved brother Mr. <hi>Stephen Geree,</hi> Preacher of the word at <hi>Guylford</hi> in Surrey; <hi>Grace</hi> and <hi>Peace.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">D</seg>Edication of Bookes is uſed not onely as a Teſtimony of obſervance to great ones: but of love alſo to Fa<g ref="char:EOLhyphen"/>miliars, eſpecially ſuch as are lear<g ref="char:EOLhyphen"/>ned. Famous <hi>Calvin,</hi> who dedi<g ref="char:EOLhyphen"/>cated Treatiſes to divers Chriſti<g ref="char:EOLhyphen"/>an Princes, preſented one alſo to his Reverend Maſter <hi>Corderius;</hi> What fitter name then can I prefixe to this ſhort Treatiſe, then yours? To whom beſides the reſpect of an elder bro<g ref="char:EOLhyphen"/>ther, I ſtand ingaged for my initiation into Logick and Divinity; of both which I here preſent you ſome fruites. I am not ignorant that many have written of this Subject. But I obſerve withall that moſt men buy and read Books as they doe cloathes, that is, onely thoſe that are new and in faſhion. So we muſt have new books to confute old errours, becauſe ancient Treatiſes are look't on but by a few, elſe we may periſh in the midſt of Antidotes for want of uſing them; But a ſhort Book muſt not have a large Epiſtle, therefore deſiring your prayers for the Book and the Author; I am</p>
+            <closer>
+               <dateline>From my ſtudy at St. <hi>Albanes,</hi> 
+                  <date>June <hi>1. 1646.</hi>
+                  </date>
+               </dateline>
+               <signed>your loving and ob<g ref="char:EOLhyphen"/>liged brother JO. GEREE.</signed>
+            </closer>
+            <pb facs="tcp:159789:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:159789:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159789:4"/>
+            <pb n="1" facs="tcp:159789:4"/>
+            <head>QUESTION. VVhether Judiciall Aſtrology or Prognoſtications (touching perſons or Realmes) by the Stars, may be law<g ref="char:EOLhyphen"/>fully practiſed, countenanced, or tolerated?</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>A<g ref="char:V">Ʋ</g>L</hi> being at <hi>Athens</hi> had his ſpirit <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſtirred, or provoked when he ſaw the City given to Idolatry; therefore diſputed he in the Syna<g ref="char:EOLhyphen"/>gogues, and in the Market, and was in<g ref="char:EOLhyphen"/>countred by the Philoſophers, <hi>Act.</hi> 17.16, 17, 18. Though our Nation be not ſo given to <hi>Aſtrology</hi> as <hi>Epheſus</hi> to <hi>Ido<g ref="char:EOLhyphen"/>latry,</hi> nor my ſpirit ſo full of zeale as St. <hi>Pauls</hi> was: yet ſuch hath been of late, the boldneſſe of ſome Starre-gazers in their predictions touching the affaires of this Nation, and ſome perſons in it, and many of all profeſſions have caſt ſuch a re<g ref="char:EOLhyphen"/>ſpective eye upon them, that my ſpirit hath been often ſtirred to enter the liſt with them, to try if I might give ſome ſtop to this ſinfull vanity, by the ſame meanes and bleſſings where<g ref="char:EOLhyphen"/>with St. <hi>Paul</hi> was mighty among the <hi>Epheſians.</hi> Now this kind of Divination may be convinc't of iniquity by three Ar<g ref="char:EOLhyphen"/>guments.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label> 1. <hi>That which is condemned by the word of God as a grand of<g ref="char:EOLhyphen"/>fence, is not to be practiſed, countenanced or tolerated; But Divi<g ref="char:EOLhyphen"/>ning by the Starres is condemned in the word of God as a grand of<g ref="char:EOLhyphen"/>fence. Ergo.</hi> The <hi>Major</hi> is a principle unqueſtionable; the <hi>Mi<g ref="char:EOLhyphen"/>nor</hi> I make good by the places following, <hi>Deut.</hi> 18.10, 11, 12. <hi>There ſhall not be found among you any one that maketh his
+<pb n="2" facs="tcp:159789:5"/>ſon, or his daughter to paſſe through the fire, or that uſeth Divi<g ref="char:EOLhyphen"/>nation, or an obſerver <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f times, or an Enchanter, or a Witch, or a Charm<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, or a Conſulter with familiar Spirits, or a Wizard, or a N<gap reason="illegible" resp="#MURP" extent="10 letters">
+                     <desc>〈10 letters〉</desc>
+                  </gap>; for all</hi> that doe theſe things are abomination unto the Lord. Here <hi>Moſes reckoning up the divers kinds</hi> of Sor<g ref="char:EOLhyphen"/>ceries uſeth divers words, that are taken to note out Aſtrolo<g ref="char:EOLhyphen"/>gy, that is, Divination by the Stars as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a Diviner, touch<g ref="char:EOLhyphen"/>ing which word <hi>A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enza<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> himſelf an Aſtrologer ſaith. <hi>Hoc eſt quidem commune omnibus divinantibus, ſed proprium magis namen Aſtrologorum</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is a common name to all Diviners, but more proper to Aſtrologers. 2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Planetarius</hi> as <hi>Junius</hi> ren<g ref="char:EOLhyphen"/>ders it, that is, <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> that divines by the <hi>Planets,</hi> or as our Tranſlators render it, <hi>an obſerver of times,</hi> that is, of lucky, or unlucky times by the poſition of the Starres, as <hi>Ha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> did by another kind<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcery, <hi>Eſther</hi> 3.7. and this, as <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> obſerves out of <hi>Ki<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> notes out curious Aſtro<g ref="char:EOLhyphen"/>logers 3. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> rend<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <hi>Wizards Scioli;</hi> Man that pretend to foretell things our of ſome knowledge that they have more then other living, which <hi>Daniel</hi> diſclaimed, <hi>Dan.</hi> 2.30. And whoſe humour doth this more lively repreſent then our <hi>Aſtrologers?</hi> Now all thoſe are forbidden under this notion, that thoſe that doe them are an <hi>abomination.</hi> Yes, the look<g ref="char:EOLhyphen"/>ing after them is prohibited under the expreſſion of <hi>going a ing after them, Levit.</hi> 20.6. and doth not the expreſſion, <hi>Deut.</hi> 18.10. <hi>There ſhall not be found among you,</hi> intimate, that theſe things are neither to be practiſed by them, nor tolera<g ref="char:EOLhyphen"/>ted among them?</p>
+            <p>
+               <hi>Iſa.</hi> 2.6. you have a ſad expreſſion; <hi>Therefore thou haſt forſaken thy people the houſe of Jacob, becauſe they be repleriſhed from the Eaſt,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>and Sooth-ſayers like the Philiſtines;</hi> where the ſame originall word is tranſlated <hi>Sooth-ſayers,</hi> which Interpreters moſt generally take to import Aſtrologers, and theſe are ſinners that when countenanc'd you ſee make God forſake his people.</p>
+            <p>
+               <hi>Iſay.</hi> 47.13.14. <hi>Thou art wearied in thy Counſels, let now the Aſtrologers, the Star-gazers, the monethly Prognoſticators, ſtand up and ſave thee from thoſe things, that ſhall come upon thee. Behold, they ſhall be as ſtubble, the fire ſhall burne them.</hi> Here you have held forth not onely the vanity, but the iniquity of <hi>Aſtrolo<g ref="char:EOLhyphen"/>gers;</hi>
+               <pb n="3" facs="tcp:159789:5"/>they cannot help by their Divinations, but they ſhall be puniſht for them, and that grievouſly, <hi>Jer.</hi> 10.2. <hi>Thus ſaith the Lord, learne not the way of the Heathen, and be not diſmayed at the Signes of Heaven: for the Heathen are diſmayed at them.</hi> Here you have the uſe of Aſtrology forbidden as an heatheniſh way, and that we ſhould not be diſmayed at the ſignes of Heaven, where the ſame word is uſed in the originall,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> as in <hi>Iſa.</hi> 44.25. <hi>That fruſtrateth the takens of the lyars,</hi> which inti<g ref="char:EOLhyphen"/>mates to us that the ſame Signes are meant in both places, <hi>viz.</hi> Conſtellations pointed out by lying Aſtrologers. Now theſe they were not to learne, of theſe they were not to be afraid; whence we may plainly gather, that this <hi>Divining Aſtrology</hi> is a <hi>foule</hi> and a <hi>falſe</hi> Art; <hi>ſoule,</hi> becauſe not to be lear<g ref="char:EOLhyphen"/>ned; <hi>falſe,</hi> becauſe not to be feared. <hi>The Prophets that did fore<g ref="char:EOLhyphen"/>tell evill from God, they were to be hearkned to, and to be feared, that by feare men might</hi> be excited to pray, and prevent evills imminent; ſo <hi>Hezekiah, Jer.</hi> 26.19. ſo <hi>the Ninevites;</hi> what is not then to be feared, or learned, it's not of God, nor hath it any truth in it, but is an irregular way, which is alſo hinted in that it is called the way of the Heathen, and their feare the feare of the Heathens: that is, thoſe wayes are heatheniſh, ſu<g ref="char:EOLhyphen"/>table to thoſe that know not God; but unſutable to thoſe that profeſſe him, and know his word, which is one of the very Arguments wherewith our Saviour convinceth the ſinful<g ref="char:EOLhyphen"/>neſſe of carking, <hi>Mat.</hi> 6.32. <hi>Dan.</hi> 1.2. <hi>Then the King com<g ref="char:EOLhyphen"/>manded to call in the Magicians, and the Aſtrologers, and the Sorcerer<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and the Chaldeans.</hi> Here you have <hi>Aſtrologers</hi> reck<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d up with other evill arts of Divination, as being of the ſame kind, whence we may juſtly gather, that it is to be abando<g ref="char:EOLhyphen"/>ned as an abomination with the reſt. It's true, that the origi<g ref="char:EOLhyphen"/>nall words here uſed in Chaldee are not ſo exactly knowne to the Hebrewes, as other words proper to their owne Lan<g ref="char:EOLhyphen"/>guage; yet there be two of theſe words here uſed, either of which by their etymology may appeare to note unto us th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Star-gazers, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>C<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lom,</hi> becauſe their Art is a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Heavens, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>p<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntum, be<g ref="char:EOLhyphen"/>cauſe in the twilight they were uſed to obſerve the Heavens; But what ever certainty there may be in the particular word<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>;
+<pb n="4" facs="tcp:159789:6"/>yet a certainty there is in the thing, that theſe Star-gazers were one ſort of their Diviners, that they relyed on, and ſought to, as is cleere by <hi>Iſa.</hi> 47.13. before opened. And there<g ref="char:EOLhyphen"/>fore no doubt they are to be underſtood under one or more expreſſions in this Catalogue, which though it might be ho<g ref="char:EOLhyphen"/>nourable among the Heathen, yet is it indeed a black roule preſenting to us evill Arts to be abandoned.</p>
+            <p>We may adde to theſe one teſtimony out of the New Te<g ref="char:EOLhyphen"/>ſtament, <hi>Acts</hi> 19.18, 19, 20. <hi>And many of them which belee<g ref="char:EOLhyphen"/>ved, came, and confeſſed, and ſhewed their deeds; many of them al<g ref="char:EOLhyphen"/>ſo which uſed curious Arts brought their bookes together to be burned before all men, and counted the price of them, and found it</hi> 50000 <hi>pieces of ſilver; ſo mightily grew the word of God and pre<g ref="char:EOLhyphen"/>vailed.</hi> Whence I argue; <hi>that Art the practiſe whereof is by be<g ref="char:EOLhyphen"/>leevers confest as a ſinne, the Books of it burnt, and that as an ef<g ref="char:EOLhyphen"/>fect of the power of the Goſpel, that is an evill art not to be practiſed, countenanced or tolerated; but ſuch is this Aſtrology. Ergo.</hi> The <hi>Major</hi> is cleer, the <hi>Minor</hi> is proved by the words cited. In the words foregoing you have a judgement related, which befell ſome <hi>Exorciſts, v.</hi> 13, 14, 15, 16. This was knowne at <hi>Epheſus v.</hi> 17. and thence feare, and giving glory to the name of Chriſt, and thence alſo the fruites in the words ci<g ref="char:EOLhyphen"/>ted, as <hi>confeſſion of ſinne,</hi> as of others, ſo no doubt principally of that which was puniſht, and all of that nature, <hi>verſe</hi> 18.2 the <hi>burning of their bookes,</hi> that exerciſed theſe curious Arts, <hi>ver.</hi> 19. and this aſcribed to the power of the Goſpel, <hi>ver.</hi> 20. All the doubt is whether Divining Aſtrology be comprized under curious Arts or no, and that is a needleſſe doubt too; for by the number and price of bookes which were burnt, we may plainely gather that Aſtrology was at leaſt one of thoſe Arts; for it muſt not be a <hi>Ruſticall</hi> but a <hi>Learned Sorcery</hi> that was ſo bookiſh, and what can be compared in that kind to this of <hi>Divining Aſtrology?</hi> Beſides, that the <hi>Epheſians</hi> were addicted to <hi>Magick</hi> the Proverb witneſſeth, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Epheſiae literae;</hi> as <hi>Beza</hi> notes on the place.</p>
+            <p>To this firſt, and fundamentall Argument from expreſſe Scripture, I may adde <hi>ex abundanti</hi> ſome others from the conſequence of Scriptures.</p>
+            <pb n="5" facs="tcp:159789:6"/>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>2</label> 2. <hi>That Art whereby men aſſume to themſelves, what is pecu<g ref="char:EOLhyphen"/>liar to God, muſt needs be ſinfull, neither to be practiſed, counte<g ref="char:EOLhyphen"/>nanced, nor tolerated. But this we doe by divining of events to perſons, and Nations by the Starres. Ergo.</hi> The <hi>Major</hi> is cleare from <hi>Iſa.</hi> 41.22, 23. <hi>ſhew things to come hereafter, that we may know that yee are Gods,</hi> where you ſee the knowing and decla<g ref="char:EOLhyphen"/>ring things to come, is as peculiar a being prerogative to the <hi>Deity,</hi> as to know the heart. Therefore the foreſight of future contingent events cannot be within the compaſſe of any Art; yea, the attempting of it is parallel to the ſinne of <hi>Evah,</hi> in a<g ref="char:EOLhyphen"/>ſpiring to be like God in fore-knowledge of things.</p>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>3</label> 3. <hi>That which withdrawes from God the Father, and Chriſt the Sonne, from conſidering the workes of the one, or heeding the word of the other, is an evill not to be practiſed, countenanced, or tolerated; but our Aſtrologicall predictions drawes from God and Chriſt. Ergo.</hi> The <hi>Major</hi> is evident; not to conſider Gods works is a ſinfull omiſſion condemned, <hi>Iſa.</hi> 5.12. and the Apoſtle is as ſevere againſt every thing that withdrawes from Chriſt, <hi>Col.</hi> 2.8.18, 19. Now that theſe Prognoſticatours with<g ref="char:EOLhyphen"/>draw the minds from Chriſt, may be gathered by that op<g ref="char:EOLhyphen"/>poſition put between them by <hi>Moſes, Deut.</hi> 18.10. to 16. where the tenour of the word runnes, <hi>that they muſt not hear<g ref="char:EOLhyphen"/>ken to Sorcerers that they may bearken to Chriſt;</hi> And while men aſcribe proſperity, or ill ſucceſſe in humane affaires to the Stars, doe they not thereby manifeſtly withhold mens minds from beholding God in them, or making uſe of them? for while we are detained in the view of naturall cauſes, we ſhall not looke to ſupernaturall ends or uſes, or not ſo much as we ſhould, and otherwayes would.</p>
+            <p n="4">
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>4</label> 4. <hi>That which is falſe, un<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ertaine, deluding the mind with vaine ſpeculations, is not to be practiſed, countenanced, or tolera<g ref="char:EOLhyphen"/>ted. But our Star-divining is falſe,</hi> &amp;c. <hi>Ergo.</hi> The <hi>Major</hi> is evi<g ref="char:EOLhyphen"/>dent. The <hi>Minor</hi> I prove. Firſt, that theſe predictions are falſe, <hi>Iſa.</hi> 44.15. <hi>That fruſtrateth the tokens of the lyers, and and maketh Diviners mad.</hi>
+            </p>
+            <p>Who were thoſe that were called lyers here, but thoſe ſpo<g ref="char:EOLhyphen"/>ken afterward, <hi>Iſa.</hi> 47.12, 13. for both are ſpoken with re<g ref="char:EOLhyphen"/>ference to the <hi>Caldeant.</hi> So there you ſee <hi>Starre gazers</hi> by the
+<pb n="6" facs="tcp:159789:7"/>
+               <hi>Spirit</hi> of <hi>Truth</hi> are termed <hi>lyers,</hi> their Artis falſe: If they ſpeake truth ſometimes, it's at all adventures, more by hap, then skill. Secondly, much leſſe is there any certainty in this art of Divining. There's certainty in the motions of the Stars, but none in their influences to produce particular vo<g ref="char:EOLhyphen"/>luntary events among men; Eclipſes of Sun, and Moone, Con<g ref="char:EOLhyphen"/>junctions of other Planets may certainly be foreknowne, but there's no certainty of their effects or Eſtates. The motions of the Heavens are ſo certaine, that they may be certainly fore<g ref="char:EOLhyphen"/>told, becauſe they cannot be altered without a miracle: But ther's no ſuch certainty of the events of them, that we may certainly divine by them. For if their influences were ſo cer<g ref="char:EOLhyphen"/>taine to produce, and ſo to diſcover future events, then all here below were under a Stoicall Fate; nay it would be un<g ref="char:EOLhyphen"/>lawfull without a miraculous faith to pray againſt thoſe calamities, which are diſcovered to be imminent by the Stars: for were there a certaine connexion between the influence and the effects, as between the motions of the Heavens, and <hi>Eclip<g ref="char:EOLhyphen"/>ſes;</hi> then as the latter, ſo the former could not be hindred without a Miracle, and a Miracle may not be prayed for with<g ref="char:EOLhyphen"/>out a miraculous faith. Therefore we count it ſinne and fol<g ref="char:EOLhyphen"/>ly to pray againſt an <hi>Eclipſe,</hi> and ſo againſt a calamity prog<g ref="char:EOLhyphen"/>noſticated by it, were there the ſame certainty of it. But to reſtraine prayer to direct calamities, is impiety againſt Scrip<g ref="char:EOLhyphen"/>ture, therefore calamities depend not on the Heavens by any neceſſary caſuality.</p>
+            <p>Secondly, I argue thus. <hi>The knowledge of that, which if it be acauſe, is but a generall, apartiall, a remote cauſe, cannot yield us any certaine knowledge of the effects to follow. But the know<g ref="char:EOLhyphen"/>ledge of the Conſtellations of the Heavens is the knowledge of that, which if it be a cauſe is but a generall, apartiall, a remote cauſe of events in States or affaires of men. Ergo.</hi> The <hi>Major</hi> will be eaſily cleared, for ther's no certaine connexion between cauſes generall, partiall and remote, and their effects. The <hi>Aniome, poſitâ cauſâ ponitur effectus,</hi> is onely underſtood, as Lo<g ref="char:EOLhyphen"/>gicians ſhew, of that which is the next, particular, and ada<g ref="char:EOLhyphen"/>quate cauſe of ſuch an effect, and the knowledge of ſuch a cauſe, onely can lead us to the knowledge of the effect to fol<g ref="char:EOLhyphen"/>low.
+<pb n="7" facs="tcp:159789:7"/>
+               <hi>Tune</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>cognoſcere unumquod<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cum cauſas primas, &amp; principia prima, &amp; uſque ad elementa dognoſcimus.</hi> Now the heavens are but remote, generall, and partiall cauſes of events among men; We uſe to ſay, <hi>Sol &amp; homo generat hominem.</hi> All Logicians know, that the Sun in this axiome is noted onely to be a generall cauſe: The Heavens alſo are but remote and partiall cauſes of humane events, there be other cauſes nee<g ref="char:EOLhyphen"/>rer to produce them, yea, and ſuch as the Heavens have no in<g ref="char:EOLhyphen"/>fluence on, whence I may argue. Thirdly, that the Hea<g ref="char:EOLhyphen"/>vens can give no certaine grounds for prediction in humane events.</p>
+            <p n="3">3. <hi>Thoſe effects that depend on other cauſes, on which the Hea<g ref="char:EOLhyphen"/>vens have none, or no direct power, cannot be knowne certainly by the Poſitions of the Heavens: But ſo it is with humane affaires. Ergo.</hi> The affaires of men depend principally on the provi<g ref="char:EOLhyphen"/>dence of God, and under him, on the wills and minds of men. The providence of God ordereth things concerning men and States, <hi>Epheſ.</hi> 1.11. and that not alwayes according to the ordinary diſpoſition of ſecond cauſes; But turning and over-ruling things in a ſecret way, beyond the intenti<g ref="char:EOLhyphen"/>ons of men, and the ordinary vertue of ſecond cauſes; ſo in <hi>Rehoboams</hi> folly, 2 <hi>Chron.</hi> 10.15. and <hi>Amaziah's</hi> frowardneſſe, 2 <hi>Chron.</hi> 25.10. Hence that of <hi>Salomon, Eccleſ.</hi> 9.11. <hi>Therace is not to the ſwift,</hi> &amp;c. And that of the Pſalmiſt, <hi>Promotion cometh neither from the Eaſt,</hi> &amp;c. <hi>Pſal.</hi> 75.4, 5, 6, 7. Now on the providence of God the Stars can have no influence, that were blaſphemy to imagine, neither can theſe work on natu<g ref="char:EOLhyphen"/>rall cauſes to carry them beyond their natures or Sphere to ef<g ref="char:EOLhyphen"/>fect morall ends, that's an irrationall fancy. Secondly, next under the providence of God, the ſpirits of men beare the ſway in their actions: their mindes in counſelling, their wills in moving this way or that way, according to which as their next cauſes, their actions in an ordinary way pro<g ref="char:EOLhyphen"/>ſper, or miſcarry; now the Starres have no influence on the ſoule, <hi>Coelum non agit in animam niſi indirecté. Sapiens domina<g ref="char:EOLhyphen"/>bitur aſtris.</hi> At the moſt the Starres doe but worke on the temper, and on the ſoule, but by way of inclination, which grace, education, civill wiſdome, a world of things may overſway.</p>
+            <pb n="8" facs="tcp:159789:8"/>
+            <p n="3">3. Adde to theſe, that the affaires of men and Nations are proſpered and blaſted, not according to their uſe of natu<g ref="char:EOLhyphen"/>rall meanes, but according to their morall carryage to God, as they are ſinfull, or obedient, hardned or impenitent, as they ſeeke or as they neglect God: and men act in theſe morall performances, as they are aſſiſted by the grace of God, or de<g ref="char:EOLhyphen"/>ſerted and hardened: ſee <hi>Iſa.</hi> 6.9, 10, 11, 12. <hi>Ezek.</hi> 36.25, 26.33, 34.</p>
+            <p>Now are the Heavens any cauſes to move God to harden a people, or give them Repentance, or poure out a Spirit of grace, and prayer upon them? no man will affirme it; you ſee their proſperity and ruine depend on things, on which the Heavens have no influence. Therefore the ſtudy of the Stars cannot give us any certaine fore-knowledge of humane affaires, as things are knowne in their cauſes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>But if they be not certaine cauſes, may they not be certaine ſignes of things to come?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> I anſwer no. For, <hi>if they be ſignes foreſhewing events, they muſt either ſignifie</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>or</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>by nature, as ſmoake is a ſigne of fire, or by inſtitution, as an Ivybuſh is a ſigne of Wine to be ſold: but they are notifying ſigne<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in neither of theſe wayes.</hi> Ergo. The <hi>Major</hi> is evident: The <hi>Minor</hi> may be thus cleared. Firſt, na<g ref="char:EOLhyphen"/>turall ſignes they cannot be, becauſe we have ſhewed, that there is no naturall connexion between the Conſtellations, and hu<g ref="char:EOLhyphen"/>mane events. And if any will ſay, they are ſignes, diſcove<g ref="char:EOLhyphen"/>ring, things to be by inſtitution, he muſt prove it. And here indeed is produced, <hi>Gen.</hi> 1.14. <hi>And let them be for ſignes, and for ſeaſons, and for dayes, and for yeares.</hi> But I anſwer. Signes there doth import naturall ſignes, they are ſignes of the things which they cauſe, as the ſeaſons of the yeare, which they doe both make and ſignifie; ſo the Moone of the courſes of the tides in the Sea, and rivers, &amp;c. But ther's no inſtitution of them for ſignes, to preſignifie contingent events in humane affaires, which flow from morall or ſupernaturall Cauſes. Yet, if we ſhould grant them in generall to be ſignes, we were never the neare certainly in prognoſticating by them, unleſſe we had a particular Comment on them, to declare what they ſignifie, either by Divine revelation or by ſolid experience, but no ſuch
+<pb n="9" facs="tcp:159789:8"/>Comment is extant; therefore we can have no certaine fore knowledge by them. Divine revelation to informe what ſuch, and ſuch conjuncture of Starres portend, is not pretended; And any certaine Rule from experience in this caſe we cannot have. This may be cleared, Firſt, from the nature of experi<g ref="char:EOLhyphen"/>ence; true experience ariſeth from often obſerving the ſame thing.</p>
+            <p>As a <hi>Phyſitian</hi> knowes by experience that Rubarbe will purge choler, becauſe he hath often tryed it, and alwayes findes it doth ſo ever; but now we can have no ſuch experi<g ref="char:EOLhyphen"/>ence of the effects of the Starres. Firſt, becauſe the Heavens doe not often, nay ſcarce ever returne to the ſame poſiture. If ſome great Conjunctions be many times the ſame, yet the poſi<g ref="char:EOLhyphen"/>ture of infinite other Starres (which all have their influences) being other wayes, may alter the force of the other, aug<g ref="char:EOLhyphen"/>menting it or increaſing it, to vary the effects that follow it: Beſides, when any events follow after theſe Conjunctions, they cannot certainly know, that theſe ſucceſſes, or calami<g ref="char:EOLhyphen"/>ties were effects of ſuch Conſtellations. Many things fall out together accidently, without connexion, or, dependance one of another; the ſtaffe ſtands in the corner to day, and it raines to morrow, it will not follow, when the ſtaffe ſtands in the corner againe, the next day will be raine: ſo though ſome diſmall effect follow an Eclipſe or other conjunction, this may be an extraordinary hand of God, without any de<g ref="char:EOLhyphen"/>pendance on ſuch a Conjunction; and therefore to gather the like effect to enſue, when there is ſuch a Conjunction, is but an argument <hi>à baculo in angulo.</hi> Beſides, we ſee experience uncertaine, for twins borne under the ſame conſtellation, ſo neer one another, as to hold one another by the heele, as <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> did <hi>Eſau,</hi> yet are moſt different in diſpoſition and events. <hi>Auguſtine lib.</hi> 5. <hi>de civ. Dei cap.</hi> 3. brings in one <hi>Nigidius</hi> an <hi>Aſtrologer</hi> anſwering this objection, that though there be but little time between twins, yet the Conſtellations of their Na<g ref="char:EOLhyphen"/>tivity may differ, becauſe of the ſwift motions of the Hea<g ref="char:EOLhyphen"/>vens; this he illuſtrated by two markes made with inke, ſo<g ref="char:EOLhyphen"/>dainly one after another, on a wheele whirling about, which markes will appeare a good way one from another: So the
+<pb n="10" facs="tcp:159789:9"/>ſwift motion of the Orbes may make great alterations in the Heavens, in the ſhort ſpace betweene two twins. But firſt, be<g ref="char:EOLhyphen"/>ſides that, <hi>Auguſtine</hi> excepts that the conceptionof Infants was in one inſtant, though their birth differ a little. Second<g ref="char:EOLhyphen"/>ly, and others adde that we may ſee diſparity between two o<g ref="char:EOLhyphen"/>ther Infants borne at the ſame inſtant. Thirdly, <hi>Ludovicus Vives</hi> doth wittily, and truly turne this ſimilitude to over<g ref="char:EOLhyphen"/>throw all certainty of divining by the Stars: becauſe if the ſwiftneſſe of the motion of the Stars doe ſo ſodainly alter the conſtellations, a man can never give an exact judgement of any birth, becauſe he cannot exactly know the minute of the nativity, and the leaſt time miſtaken varies the conſtellation, and the judgement and experiment from it. Again, Identity of effects doe not onely depend on the efficient, but the mat<g ref="char:EOLhyphen"/>ter alſo where the worke is wrought, <hi>Quicquid recipitur recipi<g ref="char:EOLhyphen"/>tur ad modum recipientis:</hi> Now though we could be ſure, that the poſiture of the Heavens were the ſame that it was an hun<g ref="char:EOLhyphen"/>dred yeares agoe: and that then the conſtellations had ſuch effects, yet it would not follow that now the ſame events ſhould inſue, the difference of men in divers ages, and Cli<g ref="char:EOLhyphen"/>mates of divers tempers, educations, morall and intellectuall principles, might cauſe a different event from the Starres in<g ref="char:EOLhyphen"/>fluence upon them, and ſo render the Prognoſtick incertaine and untrue, <hi>Mat.</hi> 11.20.23. our Saviour ſhewes, <hi>that the Kingdome of Heaven,</hi> that is, the Goſpel, upon different men would have a different influence and event: and why ſhould it not be ſo alſo with the conſtellations of Heaven; the Sun melts wax, hardens clay, the ſame carriage wins ſome men, and alienates others: and may not then the influence of the Starres produce divers effects on men of divers diſpoſitions? A hen one time hatches Chickens of her owne kinde, at ano<g ref="char:EOLhyphen"/>ther time other kinds of egges being ſet under her, ſhe hatch<g ref="char:EOLhyphen"/>eth Partrige, ducks, or other fowle; the heat of the hen the efficient of hatching is the ſame, onely the variation of the matter varies the effect. So though the influence of the Hea<g ref="char:EOLhyphen"/>vens ſhould by revolution become the very ſame; yet the change of men and women might alter their effects: and ſo we can have no certaine rule from experience of what is paſt,
+<pb n="11" facs="tcp:159789:9"/>to gather the like event from the Starres for future: and ſo our Divination from them muſt need; be uncertaine, and de<g ref="char:EOLhyphen"/>luſive with vaine ſpeculations.</p>
+            <p n="5">5. <hi>That which nouriſheth vaine and forbidden hopes, and feares,</hi> &amp;c. <hi>is not to be practiſed, countenanced, or tolerated. But this Aſtrologicall predictions doe, when hearkned unto: Ergo.</hi> To feare, and ſo to hope or joy, becauſe of the ſignes of Hea<g ref="char:EOLhyphen"/>ven, are forbidden affections, <hi>Jer.</hi> 10.2. <hi>and the ſignes of Hea<g ref="char:EOLhyphen"/>ven having no certainty in them, the affections are vaine as well as forbidden:</hi> yet who can read their Prognoſticks with any re<g ref="char:EOLhyphen"/>ſpect to them, but his heart will be apt to leape at good ones, to ſhrink at evill ones? and this is no ſmall evill, for if this Aſtrology be a kind of ſorcery, as I have proved, thenfeares and joyes, &amp;c. in relation to thoſe Prognoſticks will in their laſt reſolution be found ſervice to the
+<note n="*" place="margin">Of this mind is St. <hi>Augu<g ref="char:EOLhyphen"/>ſtine. lib. de doctr. Chriſt. cap.</hi> 3.</note> Divell.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> 1. But <hi>here it may be objected, that Aſtrologers doe hit right in their predictions, whereby it ſeemes there is more certainty then is granted to their Art, and if there be certainty, why may not the way be lawfull?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> 
+               <label>An.</label> 1. Doe Aſtrologers foretell right ſometimes? ſo doe Witches, and thoſe that uſe Familiar ſpirits, yet all con<g ref="char:EOLhyphen"/>feſſe theſe Diabolicall to be abandoned. 2. Aſtrologers doe many times hit wrong, as well as ſometimes right, <hi>Iſa.</hi> 44.25. <hi>The tokens of the lyars are fruſtrate.</hi>
+               <note place="margin">See <hi>Lud: Vi<g ref="char:EOLhyphen"/>ves in Aug. de civ. Dei. lib.</hi> 5. <hi>cap.</hi> 7.</note> But the Aſtrologers have this favour, that which they miſtake in is not regarded though the things be many. But what they hit right in they are cryed up for though they be but few. This hath been ſo, and is ſo, and is an Argument of the corruption of the pra<g ref="char:EOLhyphen"/>ctiſe, becauſe our corrupt natures are ſo prone to favour it. 3. Againe, more is aſcribed to Aſtrologers in point of Truth from ſome tricks they uſe; then they indeed deſerve; for they many times uſe the old way of ambiguous expreſſions, which they rather interpret according to events,
+<note place="margin">
+                  <hi>Aug. de doctr. Chriſ. lib.</hi> 2. <hi>cap.</hi> 23.</note> then foretell events by them; they alſo adde many ifs and cautions to many of their predictions, whereby if the event anſwer not the pre<g ref="char:EOLhyphen"/>diction they doe with the vulgar avoyd the ſhame of it,
+<note place="margin">
+                  <hi>Aug. de civit. Dei, lib</hi> 5. <hi>cap.</hi> 7. <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> fine.</hi>
+               </note> but if it doe fall out they carry the glory. 4. It is and hath been the opinion of judicious Divines, that much of that truth
+<pb n="12" facs="tcp:159789:10"/>that is in the predictions of Aſtrologers,
+<note place="margin">
+                  <hi>Perkins</hi> reſol. of a Coun<g ref="char:EOLhyphen"/>trey man.</note> is not from the certainty of the rules of that Art, but from the aſſiſtance of the Divell; who either by open league, or elſe in a volunta<g ref="char:EOLhyphen"/>ry ſecret way doth inſinuate himſelfe to draw on a league, and contributes his knowledge, and gueſſes, which exceed man<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>That which addes ſtrength to this conjecture, is, becauſe conſcientious men, as <hi>Auguſtine, Perkins,</hi> &amp;c. have been glad to relinquiſh this ſtudy, becauſe of the uncertainty that is in the rules of it. Now Satan may help curious heads in this way, becauſe, beſides his owne knowledge, which inables him in many things to gueſſe ſhrowdly, he may be permitted in a judiciary way to be a true ſpirit in the mouth of lyars, as well as a falſe ſpirit in the mouth of <hi>Ahabs</hi> Prophets, ſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Deut.</hi> 13.1, 2, 3, 4, 5.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> Secondly, <hi>Moſes was learned in all the wiſdome of the Aegyp<g ref="char:EOLhyphen"/>tians, Acts</hi> 7.22. <hi>and Daniel of the Caldeans. Dan.</hi> 1.17.20. <hi>And Aſtrology was one part of Learning in both theſe Countries: therefore either it is lawfull, or elſe theſe holy men learned an un<g ref="char:EOLhyphen"/>lawfull Art.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>2</label> 
+               <label>An.</label> There be two things in the Art of Aſtrology. Firſt, <hi>Theory.</hi> Secondly, <hi>Practiſe.</hi> Many have ſtudied the <hi>Theory,</hi> that have renounc't the <hi>Practiſe,</hi> (as I ſhall ſhew hereafter) finding by experience, that nothing could be done by it in a naturall way. And it is very probable, that all the Learning which theſe holy men had in this Art (if they had any) was but theoreticall; there's no footſteps of their practiſe of it in all their ſtory, but the contrary: for we read in the 2.4. and 5. chapters of <hi>Daniel,</hi> that he never was called in with the reſt of the Magicians, but was called after them, which is a plaine intimation that he renounc'd their ſociety and way, though he remained a Counſellour to the King. And when he went about to find out the ſecret, he went not to his books, but to his prayers, nor found he it by the Starres, but by revelations from God, <hi>Dan.</hi> 2.17, 18. &amp;c. Therefore <hi>Daniel</hi> and <hi>Moſes</hi> were no Aſtrologians.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> 
+               <hi>But are not the Starres admirable Creatures of God, and the cauſes of many ſtrange effects? and are not effects knowne by their cauſes? then why may not men divine by them?</hi>
+            </p>
+            <pb n="13" facs="tcp:159789:10"/>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>3</label> 3. Though it be confeſt that the Starres are admirable Creatures of great vertue, and have great influence on infe<g ref="char:EOLhyphen"/>riour bodies, yet can we not divine by them touching hu<g ref="char:EOLhyphen"/>mane affaires: for firſt, they have a ſphere of working, which they cannot paſſe; <hi>Nihil agit ultra Sphaeram.</hi> Now their Sphere is within corporeall things; <hi>Simile agit in ſimile.</hi> But humane affaires are though acted by the bodies, yet guided by the ſpi<g ref="char:EOLhyphen"/>rits of men, which are in nature out of the Sph<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re of the Heavens operation: And their ſucceſſes and miſcar<g ref="char:EOLhyphen"/>riages, are from a Divine providence in a morall way, which is a Sphere of another and an higher kinde, then that which the naturall vertues of the Heavens worke in. And there<g ref="char:EOLhyphen"/>fore what ever may be prognoſticated by them touching wea<g ref="char:EOLhyphen"/>ther, or changes in things vegetative, or ſenſitive, yet touch<g ref="char:EOLhyphen"/>ing men, their vertue is ſo ſhort in working on them, that it can give no light to diſcover events concerning them.</p>
+            <p>Secondly, where their power of working is acknowledged, yet our knowledge of their vertues and operations is ſo dim that we cannot divine by it: for many of the Starres, yea moſt of them are unknowne in their influences. And when they all of them have their influences conjoyn'd, who is able di<g ref="char:EOLhyphen"/>ſtinctly to ſay, this effect is from the vertue of this Star, and from no other: And if he cannot doe this, then can he ga<g ref="char:EOLhyphen"/>ther no certaine experience to judge of the like for future, be<g ref="char:EOLhyphen"/>cauſe he knoweth not from what Star the former flowed. The concluſion then holds good, that Aſtrologicall predictions ought neither to be practiſed, countenanced, nor tolerated.</p>
+            <p>I may adde one Argument more, which though it be not ſo <hi>concludent</hi> in a <hi>Logicall</hi> way to <hi>Reaſon,</hi> yet it may be more <hi>moving</hi> in a <hi>morall</hi> way upon the <hi>affections,</hi> then ſome of the former.</p>
+            <p n="6">
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>6</label> 6. <hi>That which moſt godly and Learned men upon experience have renounc't, and repented for, is neither to be practiſed, coun<g ref="char:EOLhyphen"/>tenanced, nor tolerated: But Godly and learned men have renounc't and repented of their ſtudy of this Aſtrology. Ergo.</hi> To him that denies the <hi>Major,</hi> I may at leaſt ſay, as <hi>Tully</hi> ſaid in another caſe: <hi>Ego tantum collum non habeo,</hi> and for the <hi>Minor,</hi> I thus
+<pb n="14" facs="tcp:159789:11"/>prove it. <hi>Auguſtine</hi> the glory of his times for piety and Lear<g ref="char:EOLhyphen"/>ning, and ſolid judgement, confeſſed he had been addicted to this vanity, but by the grace of God he afterwards renounced it, as an Art condemned by true piety, affirming that is <hi>mag<g ref="char:EOLhyphen"/>nuserror, &amp; magna dementia, ſuperſtitio,</hi> and a great errour, yea a great madneſſe, a ſuperſtition eaſily refelled. <hi>Aug. de doctr. Chriſt. lib.</hi> 2. <hi>cap.</hi> 21. <hi>in ſine eſt initio capitis</hi> 22. To <hi>Auguſtine</hi> wee may adde another mentioned by him on <hi>pſ.</hi> 63. whom he brings in as a penitent renouncing this Art, as though it were Paganiſme, and Judaiſme.</p>
+            <p>
+               <hi>Perkins</hi> famous for Learning, and piety went farre in this way, but at length deſiſted, repented, and renounc't it. Heare his golden words: <hi>I have long ſtudied this Art, and was never quiet, till I had ſeene all the ſecrets of it, But at length it pleaſed God to lay before me the prophaneneſſe of it, nay I dare boldly ſay Idolatry, although it be covered with faire and golden ſhewes, therefore that which I will ſpeake with griefe, I will deſire thee to note with ſome attention.</hi> Thus farre <hi>Perkins</hi> in his Preface to the Reader, before his reſolution to the Countrey-man. I will cloſe with the confeſſion of Mr. <hi>Briggs,</hi> ſometime Geometry Reader at <hi>Oxford,</hi> A man eminent for piety: and for his skill in Mathematicks, I thinke I may truely ſay <hi>nulli ſecundus</hi> infe<g ref="char:EOLhyphen"/>riour to none: This loving friend of mine, upon a queſtion moved to him by me, touching judiciall Aſtrology, told me this remarkable ſtory touching himſelfe, when he came to <hi>Cambridge.</hi> Firſt, he thought it was a fine thing to be of Gods Counſell, to foreknow ſecrets, and reſolved to have that knowledge what labour ſoever it coſt him: And ſo early ap<g ref="char:EOLhyphen"/>plyed himſelfe to the Study of the Mathematicks, beginning with Arithmetick, and ſo to Geometry and Aſtronomy, and to lay a good foundation, he left none of theſe Arts till he had attained exactneſſe in them. The foundation thus layed, he then applyed himſelfe to his maine ſcope, the ſearch of Ju<g ref="char:EOLhyphen"/>diciall Aſtrology: But there he found his expectation fru<g ref="char:EOLhyphen"/>ſtrate, there was no certainty in the rules of is; when he had tired his body and wits in vaine, he was much dejected with the fruſtrating of his expectation. At laſt he repayred to
+<pb n="15" facs="tcp:159789:11"/>a man in <hi>Cambridge</hi> famous in this Art, and a practitioner in Prognoſtications by it; to him he made his mone what paines he had taken to be an expert Aſtrologer, and how the uncer<g ref="char:EOLhyphen"/>tainty of the Rules in that Art, did now defeat his hopes. The Aſtrologers reply was, that the Rules of that Art were uncertaine indeed, neither was there any cure for it: where<g ref="char:EOLhyphen"/>upon Mr. <hi>Brigs</hi> relinquiſht that ſtudy.</p>
+            <p>And he did then affirme to me, that he would undertake to the skilfulleſt Aſtrologer in the world, that let him ſet downe any concluſion touching any man, or State, yea, or weather, and he will prove it contradictorily, that is, both that it would fall out ſo, and that it would not fall out ſo from their owne Rules and Principles, whence ſaith he, you may ſee apparantly that there can be no certainty in the Rules of that Art: He further added, that his opinion was, to thoſe that addicted themſelves to the practiſe of Divining Aſtrolo<g ref="char:EOLhyphen"/>gy, the Divell did at firſt ſecretly lend his aſſiſtance: And at length <hi>gradatim</hi> (unleſſe God graciouſly prevented) intiſe them into contract.</p>
+            <p>But having thus cleered the caſe that Aſtrologicall predi<g ref="char:EOLhyphen"/>ctions are not to be practiſed, countenaneed, nor colerated; it may be needfull in the next place to diſcover, firſt, who practiſe. Secondly, who countenance. Thirdly, what it is to tolerate ſuch predictions.</p>
+            <p n="1">1. To the firſt, all thoſe are Practiſers in this unlawfull Art, who calculate mans Nativities, and thereby divine what their condition ſhall be, adverſe or proſperous. They alſo that by the Starres take upon them to divine, what ſhall be the ſucceſſe of particular enterprizers, in this kind they are fa<g ref="char:EOLhyphen"/>mous, or to ſpeake truly infamous, that take upon them then to divine, what will be the monethly changes or events in this preſent warre; thoſe alſo by erecting of figures, and their iſſues, and to finde out things loſt, &amp;c. Laſtly, all thoſe that in their Almanacks, beſides thoſe things that de<g ref="char:EOLhyphen"/>pend on the motions of the Heavens, which are certaine and knowne, as the ſeaſons of the yeare, Eclipſes, and ſuch like; take upon them to foretell future contingents, as what w<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther
+<pb n="16" facs="tcp:159789:12"/>will be every moueth, and every day of the moneth.</p>
+            <p n="2">2. To the ſecond, they countenance Aſtrologicall Divi<g ref="char:EOLhyphen"/>ners, firſt, that goe to them to have their nativities calculated, to know their fortunes as they call it, or to heare of things loſt, &amp;c. Secondly, that buy or read their books, unleſſe it be with an intent to confute them: Theſe books may be read, or bought from divers grounds, or ends, firſt, out of <hi>curioſity,</hi> ſo ſome goe to maſſe, this is a wanton vanity, a playing with a temptation whereby we may be inſnared. Secondly, out of <hi>reſpect,</hi> as ſuppoſing there is ſomething in them, and to make uſe of them, this is bad as the practiſe itſelfe, <hi>it's called going owhoring after them, Lev.</hi> 20.6. 3. <hi>with a purpoſe to finde matter againſt them, and confute them.</hi> Thoſe that applaud them will hold forth the beſt ſide of them, and onely talke of that wherein they ſeeme to gueſſe right, but an intelligent man by looking into them ſhall ſee their defects, and be able to lay them open, to undeceive the ſimple: if we buy or read them in the two former kinds, we countenance them, and are acceſſories to them, not in the latter. Thirdly, thoſe countenance them that beleeve them, and are ſtirred with ſe<g ref="char:EOLhyphen"/>cret or open joy, as they prognoſticate good or evill. Belee<g ref="char:EOLhyphen"/>ving is a giving glory to God, and ſo beleeving fearing, and the words of any other muſt needs reflect honour on them. Fourthly, by talking of their predictions as things that have ſomething in them, and not to be contemned. Fifthly, by applying with applauſe their predictions to events; this is juſt as ſuch an one prognoſticated, this is to doe that honour to them, which was uſed to be done to the Propheſies that came from God.</p>
+            <p>To the third. Aſtrologers are then tolerated; firſt, when their books are licenſed, or not prohibited, when their books are let out, and left out, and not cald in, then are they tole<g ref="char:EOLhyphen"/>rated: for overſeers of Preſſes being appointed for prohibiti<g ref="char:EOLhyphen"/>on of unfit Bookes, if theſe bookes were eſteemed, as they are, falſe and noxious, they ſhould, they would be prohibited, or if they ſteale out, be cald in againe. Secondly, when the Aſtrologers themſelves paſſe without repreſſe, or without re<g ref="char:EOLhyphen"/>ſtraint;
+<pb n="17" facs="tcp:159789:12"/>when the Miniſter holds his tongue, and the Magi<g ref="char:EOLhyphen"/>ſtrate his hand, when there is no Law againſt them, no pe<g ref="char:EOLhyphen"/>nalty for them, or none executed.</p>
+            <div type="conclusion">
+               <head>Concluſio Paraenetica.</head>
+               <p>Having cleered the unlawfulneſſe of practiſing, countenan<g ref="char:EOLhyphen"/>cing, and tolerating Aſtrologicall predictions; I may now be bold to ſpeak a word of exhortation to all, that they have nothing to doe in any of theſe particulars.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Exhort. </seg>1</label> And firſt, let all be perſwaded to fly the ſtudy, to abandon the practiſe of this Art: you may ſee the Scripture condem<g ref="char:EOLhyphen"/>ning it, and that as an abomination: Reaſon witneſſing againſt it, as that which is irrationall, and uncertaine. There's vanity in it, danger by it. Satan is a ſubtle adverſary, an in<g ref="char:EOLhyphen"/>ſinuating Serpent, and winds into many in this way, avoyde his ſnares. Finde you pleaſure in it? ſo may you in many poy<g ref="char:EOLhyphen"/>ſons as they goe downe, but their fruit is bitterneſſe; ſo will the fruite of Aſtrology be found, <hi>for the wages of ſinne is death.</hi> Doe yee think it an honour to you? What is it to be applauded of men and diſallowed of God? neither will it indeed get you any true honour among men: for <hi>Honos eſt conſentiens fa<g ref="char:EOLhyphen"/>ma bonorum.</hi> Honour is the agreeing, good report of good men: but the applauders of Aſtrology, are the moſt of them, of the worſt, and lighteſt ſort of men; the beſt and graveſt ſort have diſallowed it, yea branded it. <hi>Perkins</hi> reckons it up amongſt the kinds of Witch-craft. <hi>Auguſtine</hi> counted it but impious dotage and inconſiſtent with Chriſtianity: And in this ſtraine the beſt, and the weightieſt judgements run.
+<note place="margin">2 <hi>Pet.</hi> 2.15.</note> Doth profit intiſe any? Remember what ever comes this way it's but the wages of <hi>Balaam,</hi> the wages of iniquity, money that will periſh with you, and be the cankour of your ſoules. Be perſwaded therefore to renounce this evill, ſpread not a net before the feet of your brethren, to entangle their ſoules in your vaine ſpeculations, to hinder them from looking to, or making uſe of Gods hand in their calamities; you want not glorious examples, <hi>Perkins, Aug<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtine,</hi> and thoſe famous be<g ref="char:EOLhyphen"/>leevers,
+<pb n="18" facs="tcp:159789:13"/>
+                  <hi>Acts</hi> 19. who confeſt their ſinne inſtudying ſuch cu<g ref="char:EOLhyphen"/>rious Arts, and burnt their bookes, goe you and doe like<g ref="char:EOLhyphen"/>wiſe, and ſave Authority a labour.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Exhort. </seg>2</label> Secondly, if Aſtrologers perſiſt in this condemned Art, let all take heed of countenancing them; <hi>leſt pertaking of their ſin, they partake of their plagues. Remember</hi> Timothie's <hi>charge, not to partake of other mens ſinnes.</hi>
+                  <note place="margin">1 <hi>Tim</hi> 5.22.</note> and that of the Apoſtle to the <hi>Epheſians, to have no fellowſhip with the unfruitfull workes of darkeneſſe, but rather reprove them, Epheſ.</hi> 5.11. Shall we coun<g ref="char:EOLhyphen"/>tenance what God abominates, and ſtrengthen men in that, which makes both them, and the Land lyable to wrath? Let them not then have the countenance of thy <hi>coſt</hi> to buy them, of thy <hi>time</hi> to read them, of thy <hi>tongue</hi> to mention or applaud them, of thy <hi>ſoule</hi> to feare or hope, becauſe of their babling good, or bad: This <hi>Jeremy</hi> expreſſely forbids, <hi>Jer.</hi> 10.2, 3. <hi>Perkins</hi> wrote a Treatiſe againſt it. Devout beleevers, <hi>Acts</hi> 19. burnt their owne curious bookes, which they had bought, will you buy and keep ſuch as they would burne? we uſe to ſay receivers make theeves, and ſo the Law makes them ac<g ref="char:EOLhyphen"/>ceſſory to the theft: and ſo are the buyers of Aſtrologicall Prognoſticks, that buy them for curioſity, or to liſten to them. If there were no buyers there could be no ſellers: If there were no ſellers, there would be no makers, at leaſt no pub<g ref="char:EOLhyphen"/>liſhers of theſe ſinfull vanities; therefore if the Aſtrologer be guilty, the buyer and Reader cannot be innocent: Thou helpeſt to make this grievous ſinne Nationall: who ever thou art that countenanceſt it, for thou thereby art ac<g ref="char:EOLhyphen"/>ceſſory to it, and guilty of it; God hath forbidden the uſing as well as acting theſe evill Arts, and that under an hideous expreſſion, and under a diſmall doome, <hi>Lev.</hi> 20.6. <hi>And the ſoule that turneth after ſuch as have familiar Spirits, and after Wizards, to goe a whoring after them. I will even ſet my face a<g ref="char:EOLhyphen"/>gainſt that ſoule, and cut him off from among my people, Lev.</hi> 20.6. I conclude this exhortation with that home paſſage of the Apoſtle, <hi>Rom.</hi> 1. <hi>ult. wherein he ſeemes to make approvers,</hi> or applauders of ſinne in ſome ſenſe worſe then the Actours, <hi>who knowing the judgement of God, (that they that doe ſuch
+<pb n="19" facs="tcp:159789:13"/>things are worthy of death) not onely doe the ſame, but have pleaſure in thoſe that doe them.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Exhort. </seg>3</label> Thirdly, ſith Aſtrologers ſhould not be ſuffered amongſt us. Let me be bold to beſeech thoſe that are in authority. Firſt, that their bookes be not ſuffered to paſſe the preſſe: If devout beleevers burnt their owne bookes, ſure devout Governours ſhould not ſuffer bookes of the ſame kinde to injoy the light, unleſſe it be of the fire to conſume them. It were then much to be wiſht, that Licenſers for the Preſſe, had a charge and care that no bookes of this kind ſhould any more appeare, and that what have of late ſtollen forth ſhould be recal'd, and runne the ſame hazard with thoſe mentioned, <hi>Acts</hi> 19. Sure if thoſe bookes deſerve the fire that derogate from man:
+<note place="margin">As <hi>Conſtan<g ref="char:EOLhyphen"/>tius. Cod. lib.</hi> 9. <hi>tit.</hi> 18. <hi>leg.</hi> 5.7.</note> then doe thoſe much more that withdraw the mindes and hearts of men from God: Yea, it is to be wiſht, that our Lawes in this caſe defective might now be ſupplyed. And that our Aſtrologicall Diviners might be put into the Catalogue with other Sorcerers, in the Statute, <hi>primo Jacobi cap.</hi> 12. to ſuf<g ref="char:EOLhyphen"/>fer the ſame penalty for their preſumption, which is im<g ref="char:EOLhyphen"/>poſed on the other: for the Scripture makes them birds of a feather.
+<note place="margin">
+                     <hi>Cod. lib.</hi> 9. <hi>tit</hi> 18. <hi>leg.</hi> 1, 2, 3, 4, 5, 6, 7, 8, 9.</note> This divers of the Chriſtian Emperours are ſaid to have done, and they deſerve imitation, when ſinne is not onely committed but permitted, the guilt is not onely perſo<g ref="char:EOLhyphen"/>nall, but Nationoll. It's puniſhment of offences, that puts away ſinne from <hi>Iſrael,</hi> both the guilt of it by expiation, 2 <hi>Sam.</hi> 21. and the practiſe of it too, <hi>while others heare and feare, and doe no more ſo wickedly, Deut.</hi> 13.5.11.
+<note place="margin">Though not onely the Ancient Popes, but their ſounder Divines and Hiſtorians are againſt it. See <hi>Baron</hi> Annals <hi>Anno.</hi> 556. <hi>Sect.</hi> 12. <hi>Anno. var.</hi> 1.9.115, <hi>art.</hi> 41.</note> And cer<g ref="char:EOLhyphen"/>tainly connivance at this ſinne can neither want danger from God, nor diſhonour among men: we are now for Reforma<g ref="char:EOLhyphen"/>tion, and chiefly of Popery. And ſhall we ſuffer ſuch Popiſh Practiſes? Popiſh I call them, becauſe under Popery ſuch pra<g ref="char:EOLhyphen"/>ctiſes had allowance, and countenance. <hi>Tindall</hi> informes us, that Cardinall <hi>Murton</hi> had a Licenſe from the Pope for a time to ſtudy Magick, whereof himſelfe was one: And that Car<g ref="char:EOLhyphen"/>dinall <hi>Woolſey</hi> calked the Kings Nativity, which is (ſayes he then) a common practiſe among Biſhops, in all Lands. <hi>Tind.</hi> practiſe of Popiſh Prelates, pag. 367. 368.</p>
+               <pb n="20" facs="tcp:159789:14"/>
+               <p>And was it not one of the blackeſt ſtaines of our corrupt times, that that infamous Wizard Doctor <hi>Lamb</hi> was counte<g ref="char:EOLhyphen"/>nanced, and protected by ſome? And can we avoid aſperſion, if we countenance, or ſuffer Divining Aſtrologers, caſting a favourable aſpect towards us, ſith the holy Ghoſt hath put them in the ſame Catalogue oftentimes,
+<note place="margin">If any deſire to ſee more Teſtimonies of Fathers, Councells, &amp;c. let him ſee <hi>Job. Picus Mirand. lib. adv. Aſtrolo<g ref="char:EOLhyphen"/>gos.</hi>
+                  </note> and ſo doth Learned <hi>Perkins,</hi> and he hath many grave abettours: let then our worthy Senatours up and be doing, to remove this blemiſh, and guilt from us, and deliver us out of the hand of the Lord, and we will riſe up and call them bleſſed.</p>
+            </div>
+            <closer>Soli Deo Gloria.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
